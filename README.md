@@ -1,11 +1,10 @@
 
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
- <p/>
-
-
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F0AD7&lines=I'm+a+Full+Stack+Developer...)](https://git.io/typing-svg)
+<p/>
 <h1 align="center">Hi 👋, I'm Nourhan..</h1>
-<h3 align="center">I'm Back-end developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
