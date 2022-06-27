@@ -4,8 +4,9 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F0AD7&lines=I'm+a+Full+Stack+Developer...)](https://git.io/typing-svg)
 <p/>
-<h1 align="center">Hi 👋, I'm Nourhan..</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif " width="30px" height="40px">, I'm Nourhan..</h1>
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <br>	
 <a href="https://www.facebook.com/profile.php?id=100008334462006"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -19,7 +20,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<div><h3 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="40px"> Languages and Tools:</h3></img></div>
 <p align="left"> 
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
