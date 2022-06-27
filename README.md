@@ -8,11 +8,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <br>	
+<a href="https://www.facebook.com/profile.php?id=100008334462006"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+&emsp;
 <a target="_blank" href="https://www.linkedin.com/in/nourhan-khaled-27143914b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/Nourhan43500923"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-
+ <a href="mailto:norhan.khaled1818@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ &emsp;
 <p align="left">
 </p>
 
