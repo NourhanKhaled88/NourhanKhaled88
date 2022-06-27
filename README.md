@@ -21,7 +21,9 @@
 </p>
 
 <div><h3 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="40px"> Languages and Tools:</h3></img></div>
+
 <p align="left"> 
+ 
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b952v6vvbfdxue5qinh2is23yhw2g0mswdj2pcj3svjt&rid=giphy.gif&ct=s" width="100">
