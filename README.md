@@ -66,10 +66,10 @@
 
 <p align="center">
   <a href="https://github.com/yourusername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight](https://github.com/NourhanKhaled88/SendSMSUsingTwilio)" />
   </a>
   <a href="https://github.com/yourusername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight](https://github.com/NourhanKhaled88/Clinical_Management_System)" />
   </a>
 </p>
 
@@ -77,8 +77,8 @@
 
 ### ✉️ Contact Me
 
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [linkedin.com/in/nourhan-khaled-27143914b](https://www.linkedin.com/in/nourhan-khaled-27143914b)
+- 📧 Email: norhan.khaled1818@gmail.com
+- 💼 LinkedIn:  https://www.linkedin.com/in/nourhan-khaled-27143914b/
 
 ---
 
